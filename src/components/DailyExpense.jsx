@@ -226,6 +226,8 @@ function DailyExpense() {
   
 export default DailyExpense;
 
+
+// Styling
 // Main(Overall) Div
 const Main = styled.div`
     height: 95vh;
